@@ -1,6 +1,6 @@
 # FontUtil
 
-a simple way to change the typeface all over your application or for specific text directly from the layout xml without creating a custom class or refering to your views programmatically.
+a simple way to change the typeface allover your app or to a specific view directly from the layout xml without creating a custom class or refering to your view programmatically.
 
 
 ## How to use it
