@@ -18,6 +18,7 @@ public class FontApp extends Application {
         super.onCreate();
         HashMap<String,String> fontsMap = new HashMap<>();
         fontsMap.put(this.getResources().getString(R.string.pacifico_font),"fonts/Pacifico.ttf");
-        FontUtil.applyFont(Typeface.createFromAsset(getAssets(),"fonts/Pacifico.ttf"));
+        FontUtil.init(this,fontsMap);
+        //FontUtil.applyFont(Typeface.createFromAsset(getAssets(),"fonts/Pacifico.ttf"));
     }
 }
