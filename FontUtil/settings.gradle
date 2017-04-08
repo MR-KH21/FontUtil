@@ -1,1 +1,1 @@
-include ':app', ':font'
+include ':app', ':font-util'
