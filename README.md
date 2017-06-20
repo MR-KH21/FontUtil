@@ -1,3 +1,9 @@
+# Update
+
+The Support Liberary now supporting font resources. Please check the link below :
+https://youtu.be/V6-roIeNUY0?t=7m17s
+
+
 # FontUtil
 
 a simple way to change the typeface allover your app or to a specific view directly from the layout xml without creating a custom class or refering to your view programmatically.
